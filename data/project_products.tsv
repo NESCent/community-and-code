@@ -1,0 +1,133 @@
+project_product_id	project_id	product_name	product_type	location	description	is_followup	comment
+1	1	Architastic hackathon code repository	repository	https://github.com/phylotastic/architastic		FALSE	 
+2	2	DateLife hackathon code repository	repository	https://bitbucket.org/bomeara/datelife		FALSE	 
+3	3	Phylostylotastic hackathon code repository	repository	https://github.com/daisieh/nexml.java		FALSE	 
+4	4	Phylogeotastic hackathon code repository	repository	https://github.com/phylotastic/PhyloGeoTastic		FALSE	 
+5	5	Taxonomic Name Resolution hackathon code repository	repository	ttps://github.com/phylotastic-legacy/TNRastic		FALSE	 
+6	6	Tree Annotation hackathon code repository	repository	https://github.com/miapa/miapa		FALSE	 
+7	7	Integration of Trees and Traits hackathon code repository	repository	https://github.com/lukejharmon/traitathon		FALSE	 
+8	8	Library wrappers for OT APIs hackathon code repository	repository	https://github.com/fmichonneau/rotl		FALSE	 
+9	9	Phylogeny viz style-sheets hackathon code repository	repository	https://github.com/OpenTreeOfLife/phylostylotastic		FALSE	 
+10	10	Down-sampling taxa hackathon code repository	repository	https://github.com/arlin/sample_taxa		FALSE	 
+11	11	Branch lengths hackathon code repository	repository	https://github.com/ladykiyenz/branchlengths		FALSE	 
+12	12	Annotation database hackathon code repository	repository	https://github.com/OpenTreeOfLife/muriqui		FALSE	 
+13	13	Phylotastic Shiny hackathon code repository	repository	https://github.com/phylotastic/phyloShiny		FALSE	 
+14	14	Phylotastic Architecture hackathon code repository	repository	https://github.com/phylotastic-legacy/cgi	Perl CGI scripts providing skeleton implementation of Phylotastic functionality (using mock return data)	FALSE	This group generated several repositories with different kinds of implementations.  
+15	15	TNRS hackathon code repository	repository	https://github.com/phylotastic-legacy/TNRastic		FALSE	 
+16	16	Branch lengths hackathon code repository	repository	https://bitbucket.org/bomeara/datelife/overview		FALSE	 
+17	17	Tree Store hackathon code repository	repository	https://github.com/kcranston/PhylotasticTreeStore	"This is the code for a RESTful adaptor for an RDF-based tree store. It is a web2py application, which provides a RESTful interface by translating queries for trees into SPARQL queries to a triple store and then using DendroPy to translate the resulting RDF to NeXML."	FALSE	This group generated several repositories with pieces.  None of them is the main repository. 
+18	18	Integrating Ontologies hackathon code repository	code	https://github.com/nexml/nexml/blob/master/xslt/nexml2cdao.xsl	"An XSLT stylesheet that transforms NeXML to CDAO, updated to handle character state matrices. Produced output validates against W3C RDF validator. This style sheet was in use for the creation of TreeBASE RDF/XML output."	FALSE	This is still used to provide the export capability for TreeBASE
+19	18	Integrating Ontologies hackathon code repository	code	https://github.com/nexml/nexml/blob/master/examples/translations/tdwg09.xml	An example NeXML instance document of semantically annotated OTUs. This file is part of a growing collection of canonical NeXML example files.	FALSE	Note that this is formalized data rather than executable code
+20	18	Integrating Ontologies hackathon code repository	code	https://github.com/nexml/nexml/blob/master/examples/translations/tdwg09.rdf	A CDAO RDF/XML translation of the NeXML instance document. 	FALSE	Note that this is formalized data rather than executable code
+21	18	Integrating Ontologies hackathon code repository	code	http://www.evoio.org/wg/evoio/images/8/87/Tucos.owl	An ontology for occurrence instance data. This file is a one-off example.	FALSE	Note that this is formalized data rather than executable code
+22	18	Integrating Ontologies hackathon code repository	code	http://www.cs.nmsu.edu/~bchisham/taxonomy_mapping.owl	An adaptor ontology that aligns CDAO with DarwinCore	FALSE	This resource has gone missing (original owner BC could not find it easily)
+24	24	Diversification hackathon code repository	repository			FALSE	"for location, see comment  in event metadata for this hackathon"
+25	25	Divergence Time Estimation hackathon code repository	repository			FALSE	"for location, see comment  in event metadata for this hackathon"
+26	26	Documentation hackathon code repository	repository			FALSE	"for location, see comment  in event metadata for this hackathon"
+27	27	Trait Evolution hackathon code repository	repository			FALSE	"for location, see comment  in event metadata for this hackathon"
+28	28	Class Design hackathon code repository	repository			FALSE	"for location, see comment  in event metadata for this hackathon"
+29	29	Mesquite-R communication hackathon code repository	repository	http://rmesquite.r-forge.r-project.org/		FALSE	
+30	30	Input-Output hackathon code repository	repository			FALSE	"for location, see comment  in event metadata for this hackathon"
+37	37	Taxonomic Intelligence Subgroup hackathon code repository	repository	https://github.com/arlin/dbhack1/tree/master/taxonIntel		FALSE	 
+38	38	Java API Library to NeXML Subgroup hackathon code repository	repository	https://github.com/nexml/nexml.java		FALSE	 
+39	39	Phylr Subgroup hackathon code repository	repository	https://code.google.com/p/phylr/		FALSE	 
+40	40	Semantic API for CDAO Subgroup hackathon code repository	repository	https://github.com/arlin/dbhack1/tree/master/cdao-api		FALSE	 
+41	41	Visualization Subgroup hackathon code repository	repository	https://github.com/NESCent/dbhack1/tree/master/visualization		FALSE	 
+42	42	GMatchbox hackathon code repository	repository	https://github.com/hitz/gmatchbox		FALSE	 
+43	43	GBrowse_syn2 hackathon code repository	repository	see description		FALSE	 
+44	44	JBrowse_syn hackathon code repository	repository	https://github.com/GMOD/jbrowse_syn		FALSE	 
+45	45	PhyloBox hackathon code repository	repository	https://github.com/leto/www-phylobox		FALSE	 
+46	46	PhyloBox JBrowse Integration hackathon code repository	repository	NA		FALSE	 
+47	47	Natural Diversity and Phenotypes in Chado hackathon code repository	repository	https://github.com/gmodevohack/gmodnatdiv		FALSE	 
+48	48	Galaxy + HyPhy hackathon code repository	repository	http://bitbucket.org/xeme/galaxy-central		FALSE	 
+49	49	BioPerl hackathon code repository	repository	see Description		FALSE	 
+50	1	Architastic hackathon team report	report	http://www.evoio.org/wiki/User:Shannon.lynn.oliver		FALSE	 
+51	2	DateLife hackathon team report	report	http://www.evoio.org/wiki/DateLife		FALSE	 
+52	3	Phylostylotastic hackathon team report	report	http://www.evoio.org/wiki/PhyloStyloTastic		FALSE	 
+53	4	Phylogeotastic hackathon team report	report	https://docs.google.com/document/d/1ULGL4s8T3YBRk15a-MMVAOvMGsOKeKjMpYnALp1CWHI/edit		FALSE	 
+54	5	Taxonomic Name Resolution hackathon team report	report	http://www.evoio.org/wiki/Phylotastic/TNRS		FALSE	 
+55	6	Tree Annotation hackathon team report	report	http://www.evoio.org/wiki/Tree_Annotation		FALSE	 
+56	7	Integration of Trees and Traits hackathon team report	report	https://github.com/lukejharmon/traitathon/wiki		FALSE	 
+57	8	Library wrappers for OT APIs hackathon team report	report	https://docs.google.com/document/d/1OUS1-AtP6Ub6lGl87Ge_-06AdpnwLBF9Px2Che5l6aA/edit		FALSE	 
+58	9	Phylogeny viz style-sheets hackathon team report	report	https://docs.google.com/document/d/1UOZ6JgrpvDgALovGGZC3iB9R9Lzb9u9MPan4oj5zkx8/edit		FALSE	 
+59	10	Down-sampling taxa hackathon team report	report	https://docs.google.com/document/d/1se_OsNI8pXisahLetavrRfGjwibE1mR5kTmqd0d9IPQ/edit?copiedFromTrash#heading=h.y059ceic2jvm		FALSE	 
+60	11	Branch lengths hackathon team report	report	https://docs.google.com/document/d/12vwbHy5D42DGgCrkWHXyUYHosqe2dyEIiG0oKEmUgTc/edit		FALSE	 
+61	12	Annotation database hackathon team report	report	https://docs.google.com/document/d/1MbiQwy5ImaWUzzCudmkLwKj82oe-QC__e5krsQJ8umE/edit		FALSE	 
+62	13	Phylotastic Shiny hackathon team report	report	http://www.evoio.org/wiki/Phylotastic/shiny		FALSE	 
+63	14	Phylotastic Architecture hackathon team report	report	http://www.evoio.org/wiki/Phylotastic/Architecture		FALSE	 
+64	15	TNRS hackathon team report	report	http://www.evoio.org/wiki/Phylotastic/TNRS		FALSE	 
+65	16	Branch lengths hackathon team report	report	https://docs.google.com/document/d/1XWaU808wJlAjrFixuy0ePdkgoDQC0qlpfmII5uzdHPc/edit		FALSE	 
+66	17	Tree Store hackathon team report	report	https://docs.google.com/document/d/1zj601OUQWqh5I-5weo9v3qjlzhNWeh1hunTYGBKfeLA/edit#		FALSE	 
+67	18	Integrating Ontologies hackathon team report	report	http://www.evoio.org/wiki/Integrating_Ontologies		FALSE	 
+68	19	Taxonomic Reasoning hackathon team report	report	http://www.evoio.org/wiki/Taxonomic_Reasoning		FALSE	 
+69	20	Phyloreferencing hackathon team report	report	http://www.evoio.org/wiki/Phyloreferencing_subgroup		FALSE	 
+70	21	Publishing Taxonomies hackathon team report	report	http://www.evoio.org/wiki/Publishing_Taxonomies		FALSE	 
+71	22	TripleStore hackathon team report	report	http://www.evoio.org/wiki/TripleStore		FALSE	 
+72	23	SADI biodiversity hackathon team report	report	http://www.evoio.org/wiki/SADI		FALSE	 
+73	24	Diversification hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Diversification_SG		FALSE	 
+74	25	Divergence Time Estimation hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Divergence_Time_Estimation_SG		FALSE	 
+75	26	Documentation hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Documentation_SG		FALSE	 
+76	27	Trait Evolution hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Trait_Evolution_SG		FALSE	 
+77	28	Class Design hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Class_Design_SG		FALSE	 
+78	29	Mesquite-R communication hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Mesquite-R_communication_SG		FALSE	 
+79	30	Input-Output hackathon team report	report	http://informatics.nescent.org/wiki/R_Hackathon_1/Input-Output_SG		FALSE	 
+80	31	Sequence family evolution hackathon team report	report	http://informatics.nescent.org/wiki/Family_Alignment_Documentation		FALSE	 
+81	32	Reconciling trees hackathon team report	report	http://informatics.nescent.org/wiki/Reconcile_Trees_Documentation		FALSE	 
+82	33	Phylogenetic footprinting hackathon team report	report	http://informatics.nescent.org/wiki/Phylogenetic_Footprinting_Documentation		FALSE	 
+83	34	Phylogeny inference on non-molecular characters hackathon team report	report	http://informatics.nescent.org/wiki/Morphological_Characters_Documentation		FALSE	 
+84	35	Estimate divergence times hackathon team report	report	http://informatics.nescent.org/wiki/Estimate_Divergence_Documentation		FALSE	 
+85	36	NEXUS compliance issues hackathon team report	report	http://informatics.nescent.org/wiki/Supporting_NEXUS_Documentation		FALSE	 
+86	37	Taxonomic Intelligence Subgroup hackathon team report	report	https://www.nescent.org/wg_evoinfo/Taxonomic_Intelligence_Subgroup		FALSE	 
+87	38	Java API Library to NeXML Subgroup hackathon team report	report	https://www.nescent.org/wg_evoinfo/Java_API_Library_to_NeXML_Subgroup		FALSE	 
+88	39	Phylr Subgroup hackathon team report	report	https://www.nescent.org/wg_evoinfo/Phylr_Subgroup		FALSE	 
+89	40	Semantic API for CDAO Subgroup hackathon team report	report	https://www.nescent.org/wg_evoinfo/Semantic_API_for_CDAO_Subgroup		FALSE	 
+90	41	Visualization Subgroup hackathon team report	report	https://www.nescent.org/wg_evoinfo/Visualization_Subgroup		FALSE	 
+91	42	GMatchbox hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/GMatchbox		FALSE	 
+92	43	GBrowse_syn2 hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn		FALSE	 
+93	44	JBrowse_syn hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/JBrowse_syn		FALSE	 
+94	45	PhyloBox hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/PhyloBox		FALSE	 
+95	46	PhyloBox JBrowse Integration hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/Comparative_Genomics_Visualization:Phylobox_JBrowse		FALSE	 
+96	47	Natural Diversity and Phenotypes in Chado hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/Natural_Diversity_and_Phenotypes_Subgroup		FALSE	 
+97	48	Galaxy + HyPhy hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/Galaxy_and_HyPhy_Subgroup		FALSE	 
+98	49	BioPerl hackathon team report	report	https://www.nescent.org/wg_gmodevohackathon/BioPerl_Enhancements_Subgroup		FALSE	 
+99	50	Workflow vignette community website	repository	https://github.com/NESCent/popgenInfo		FALSE	
+100	51	Streamlining VCF data flow	repository	https://github.com/thibautjombart/apex		FALSE	
+101	53	Identifying and visualizing outliers in multi-variate summary statistics space	repository	https://github.com/NESCent/MINOTAUR		FALSE	
+102	54	R package for calculating Ne in different ways	repository	https://github.com/georgeshirreff/multiNe		FALSE	
+103	50	Workflow vignette community website	report	https://github.com/NESCent/popgenInfo		FALSE	
+104	51	Streamlining VCF data flow	report	https://github.com/NESCent/r-popgen-hackathon/wiki/Team-2		FALSE	
+105	52	Integrating simulation with popgen analysis	report	https://github.com/NESCent/r-popgen-hackathon/wiki/Team-3		FALSE	
+106	53	Identifying and visualizing outliers in multi-variate summary statistics space	report	https://github.com/NESCent/r-popgen-hackathon/wiki/Team-4		FALSE	
+107	54	R package for calculating Ne in different ways	report	https://github.com/NESCent/r-popgen-hackathon/wiki/Team-5		FALSE	
+108	54	R package for calculating Ne in different ways	repository	https://github.com/ewersSaucedo/EffSize_hackathon		FALSE	additional repository with examples
+109	51	Streamlining VCF data flow	repository	https://github.com/thibautjombart/adegenet	adegenet: a R package for the multivariate analysis of genetic markers	FALSE	hackathon code was integrated into this pre-existing package
+110	51	Streamlining VCF data flow	repository	https://github.com/jgx65/hierfstat	the hierfstat system	FALSE	hackathon code was integrated into this pre-existing package
+111	51	Streamlining VCF data flow	repository	https://github.com/emmanuelparadis/pegas	pegas: Population and Evolutionary Genetics Analysis System	FALSE	hackathon code was integrated into this pre-existing package
+112	52	Integrating simulation with popgen analysis	repository	https://github.com/christianparobek/skeleSim	"skelesim: Null models, performance testing, and power estimation with population simulations"	TRUE	"repo created weeks after event, in active use 7 months later"
+113	14	Galaxy-based phylotastic demo	installation	http://galaxy.phylotastic.net/root	Live demo carrying out some phylotastic steps in a galaxy environment	FALSE	see screencast (separate product) for explanation
+114	14	Galaxy-based phylotastic demo code	repository	https://github.com/phylotastic/arch-galaxy	Code for Galaxy-based phylotastic demo	FALSE	
+115	14	Galaxy-based phylotastic demo screencast	screencast	https://www.youtube.com/watch?v=kMME658xOu4&feature=youtu.be	Screencast demonstrating some features of the Phylotastic Galaxy demo	FALSE	"420 views as of 15 November, 2015"
+116	14	Subtree topology server 	installation	http://phylotastic-wg.nescent.org/script/phylotastic.cgi	"Web form allows user to specify a list of species and a source tree, and returns the subtree for those species. "	FALSE	This service is sometimes broken
+117	14	Subtree topology server code 	repository	https://github.com/phylotastic-legacy/tolomatic	Code for Subtree topology server	FALSE	
+118	14	Subtree topology server documentation 	documentation	https://github.com/phylotastic-legacy/tolomatic/blob/master/README.pod	"Instructions for installing, and explanation of map-reduce approach to pruning. "	FALSE	
+119	14	Extensions to phylomatic	repository	https://github.com/camwebb/phylomatic-ws	"A major upgrade to this well-used tool. Phylomatic version 3 is a fork of the phylocom phylomatic code and exists only as a web service. It can now: read in trees as NeXML and CDAO, graft in taxa to the megatree, and write out in a number of formats."	TRUE	"This repository apparently was created for the event,  but has remained active for over 3 years. Most of the commits occurred several months after the hackathon. "
+120	14	Prototype phylotastic controller using NodeJS	repository	https://github.com/helenadeus/phylotastic_js		FALSE	
+121	16	DateLife presentation	screencast	https://www.youtube.com/watch?v=xWmLrbUWtyM	Recorded presentation of DateLife project at iEvoBio 2012 by Brian O'Meara	TRUE	"178 views as of 15 November, 2015"
+122	13	Live demonstration server for reconciliation-tree use-case	installation	http://phylotastic.nescent.org/shiny/reconciliotastic	"The server has a graphical interface that allows a choice of a few pre-loaded input files for reconciliation.  The server processes inputs, finds a species tree, and performs reconciliation , presenting a graphical view to the user. "	FALSE	This service is sometimes broken. 
+123	13	Forester improvements	code	https://github.com/cmzmasek/forester	Refinement of gene duplication inference algorithm implementation	FALSE	The refinements were made within a larger codebase that existed before the event.  It is maintained by CMZ who continues to work on it.  
+124	15	TNRS API description	documentation	http://www.evoio.org/wiki/Phylotastic/TNRS	Precise API description for service	FALSE	
+125	17	New release of CDAO ontology adopting OBO conventions	code	http://svn.code.sf.net/p/obo/svn/ontologies/trunk/CDAO/2012-06-06/cdao.owl	A pre-existing ontology resource (CDAO) was updated to follow OBO conventions for identifiers.  This had a long-term impact on the interoperability of CDAO.	FALSE	
+126	17	SADI web service that returns subtree from NCBI taxonomy	repository	https://github.com/balhoff/phylotastic-sadi	"A proof-of-concept SADI-based web service which uses RDF and SPARQL to return subtrees from larger phylogenetic trees, using the NCBI taxonomy tree as an example of a large tree. "	FALSE	
+127	8	"rotl, an R package to interact with the Open Tree of Life data "	publication	https://peerj.com/preprints/1471.pdf 	"PeerJ manuscript presenting rotl, an R package to discover and access phylogenetic information from OpenTree, using OpenTree's web services API.  This package creates a direct connection between the phylogenetic knowledge in OpenTree and existing R tools formanipulation, analysis, and visualization. "	TRUE	"The acknowledgements indicate that this package started at the TreeForAll hackathon.  The team developed APIs in 2 other languages, as well as a multi-language test system to perform the same tests on all the APIs. "
+128	47	Publication referring to a hackathon product. 	publication	http://database.oxfordjournals.org/content/2011/bar051	The authors of q(The Chado Natural Diversity module: a new generic database schema for large-scale phenotyping and genotyping data) included a description of the gmodnatdiv hackathon project as an implementation of the new module (6 of 15 authors were on the hackathon team).	TRUE	Cited by 3 as of 20 Nov. 2015
+129	52	Proposal for NIMBioS team visit	funding proposal		"A proposal to NIMBioS seeking funding for a face-to-face meeting (""short visit"") of the team.   "	TRUE	"The proposal was funded and the team met at NIMBioS center in Knoxville, TN in July of 2015."
+130	13	Mesquite-o-tastic screencast	screencast	https://www.youtube.com/watch?v=fdMQOVdQ8eM&feature=youtu.be	A demonstration of the Mesquite-o-tastic extention to Mesquite	TRUE	200 views as of 20 Nov 2015
+131	17	Ontology and RDF model for Taxonomic Name Resolution Service (TNRS) results.	repository	https://github.com/phylotastic-legacy/ontologies	 The ontology describes the entities that make up a TNRS result and their relationship to an OTU and a TNRS resolution result. The RDF model is accompanied by an instance document and a graph visualization.	FALSE	About half of the 47 commits were done in the months after the hackathon.  
+132	1	Phylocommons codebase	repository	http://code.phylocommons.org/	"Open code repository for the Phylocommons project.   The repo was opened in the context of event 7 (two weeks before), but the vast majority of the work was done before or after the event. "	TRUE	"This project is also a followup of a previous treestore group (project 17), because a member of that group, HL, hired BM as a student to build on the work they had done."
+133	1	PhyloCommons 	installation	http://www.phylocommons.org/	Phylocommons is a community repository for trees operated by NESCent.	TRUE	 is a working prototype of a treestore with a web interface (implemented using Django). 
+134	17	DendroPy metadata support	repository	https://github.com/jeetsukumaran/DendroPy	"Support for NeXML metadata (annotation) encodings was added to a pre-existing package DendroPy package. Github records indicate 73 commits comprising over 5000 new lines of code (11,736 additions and 6380 subtractions)."	FALSE	"Although this is marked as a hackathon product rather than a follow-on product, the activity was part of a hackathon-associated spike in activity that lasted for a month and that, in total, comprised 238 commits and over 20000 lines of code (32459 additions and 10522 subtractions from May 18 to July 15, 2012). "
+135	4	PhyloGeotastic screencast	screencast		This screencast 	FALSE	The screencast is not available as of 12/21/2015
+136	5	Species Autocomplete script	repository	https://github.com/gaurav/species-autocomplete	"This tool provides basic Javascript and PHP code to run an autocompletion script. An included Perl script allows the ITIS-DwCA resource to be used to generate the autocompletion database (in SQLite). Further improvements may allow this software program to be integrated into websites which would like to validate the input of scientific names, either for data entry or to power searches."	FALSE	
+137	4	GSOC idea proposal	proposal	https://docs.google.com/document/d/156uPz3u5yVCiunf9vR2VKoLgKNrHyK0k_4-Q-_IHtBw	This is a proposed idea for a summer-of-code project. 	FALSE	This proposal was adopted by a prospective student but not funded by GSOC. 
+138	36	NEXUS test file set	test files	http://cpansearch.perl.org/src/ARLIN/Bio-NEXUS-0.78/t/data/compliant/	"This is a set of test files that were assembled originally at the hackathon.  The test files represent various token uses of NEXUS features, including rarely seen features.  The are useful for testing NEXUS parsers for compliance. "	TRUE	"The test files developed initially for Bio::NEXUS were used immediately in NCL (Lewis, et al) and led to improvements in compliance. "
+139	20	Grant proposal to implement phyloreferencing system	grant proposal	NA	Collaborative NSF grant proposal q(An ontology-based system for querying life in a post-taxonomic age) that emerged partly from the VoCamp phyloreferencing project.	TRUE	"Recommended for funding by NSF (ABI) as of Feb, 2015."

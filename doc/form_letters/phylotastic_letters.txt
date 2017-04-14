@@ -1,0 +1,62 @@
+﻿Subject: Phylotastic - confirm participation by 30 March
+
+Dear <NAME>,
+
+Thank you for your application to participate in Phylotastic [1], the first hackathon 
+organized by the HIP (Hackathons, Interoperability, Phylogenies) Working Group [2] at 
+NESCent. On behalf of the HIP leadership team, I am excited to inform you that your 
+application has been accepted.
+
+To reserve your seat at the Phylotastic hackathon, we must receive confirmation from you 
+by March 30, 2012, of your commitment to participate.  
+
+Your commitment includes participating in pre-event discussions (online and possibly via 
+teleconference), attending the actual hackathon event, and responding to follow-up queries 
+after the event. The hackathon will start at 9 am on June 4, and end at 3 pm on June 8. 
+Please let us know in your response if you expect limitations to your ability to 
+participate before or at the event (e.g., prolonged travel before the event, or having to 
+arrive later or depart earlier than the stated start and end times).
+
+<FULL-SUPPORT>
+	Your application indicated that you need financial support. NESCent will support your 
+	airfare, lodging, meals and incidental travel expenses. Once you have confirmed your 
+	seat, you will receive instructions on how to arrange your travel, the Center’s Travel 
+	Policies, and other logistics from Xxxx Xxxxx, NESCent’s logistics coordinator. 
+</FULL-SUPPORT>
+<PARTIAL-SUPPORT>
+	Your application indicated that you are able to pay some of your own expenses, which 
+	we appreciate.  Based on this, NESCent will pay for your airfare, but lodging, meals 
+	and incidental travel expenses will be your own responsibility. Once you have 
+	confirmed your participation, you will receive instructions on how to arrange your 
+	flights, the Center’s Travel Policies, and other logistics from Xxxx Xxxxx, NESCent’s 
+	logistics coordinator.
+</PARTIAL-SUPPORT>
+<NO-SUPPORT>
+	Your application indicated that you are able to pay your own expenses. We greatly 
+	appreciate this support. Once you have confirmed your participation, you will receive 
+	information on arranging your trip from Xxxx Xxxxx, NESCent’s logistics coordinator. 
+	Xxxx will be able to assist you with reserving a room at the same place as other 
+	hackathon participants.
+</NO-SUPPORT>
+
+To give you an idea of what will be happening next, here is a brief outline of upcoming 
+steps:
+- We will put up a preliminary list of participants on the hackathon wiki [1].
+- We will create a mailing list and subscribe all participants (such as you).
+- We will schedule one or possibly several teleconferences to initiate participant-driven 
+  planning.
+
+Please feel free to make changes, comments, additions etc to the hackathon wiki. The wiki 
+is publicly visible, but to edit and create pages you need to log in. You can create 
+yourself an account through the OpenID login.
+
+Once again, thanks for applying.  We're excited about your participation.  Over the coming 
+weeks, we look forward to sharing with you the responsibility for developing a hackathon 
+plan that fits our unique set of participants.  
+
+On behalf of the organizers,
+
+Rutger Vos
+
+[1] http://www.evoio.org/wiki/Phylotastic
+[2] http://www.evoio.org/wiki/HIP

@@ -1,0 +1,34 @@
+(from November, 2007, Evoldir monthly digest)
+
+NESCent Comparative Methods in R Dec 10-14
+
+NESCent Hackathon on Comparative Methods in R
+
+Call for Participation and Input
+
+The R statistical analysis package has emerged as a popular platform for implementation of powerful comparative phylogenetic methods to understand the evolution of organismal traits. The National Evolutionary Synthesis Center (NESCent) is organizing a hackathon focused on the integration of comparative phylogenetic methods within R. The event will take place on Dec 10-14, 2007, at NESCent in Durham, North Carolina. We are broadly soliciting applications for participation as well as comments and suggestions from the community. More information about the event is available at http://hackathon.nescent.org/R Hackathon 1. 
+
+A hackathon is an event at which a group of programmers who otherwise do not have the opportunity to interact on a routine basis meet to collaboratively develop working code that is of utility to the community as a whole. This event will bring together different groups of developers and users of comparative methods to work towards a common set of objectives centering on common challenges of data exchange, interoperability, and usability.
+
+CALL FOR INPUT We are soliciting input from the community at large regarding the priorities and objectives of the hackathon. If you are a user of comparative phylogenetic software and have any ideas that you would like the community of developers to be aware of, please submit your input directly through the hackathon wiki (http://hackathon.nescent.org; click on ’Forum’) or by email to hackathon2@nescent.org.
+
+CALL FOR PARTICIPATION We invite all individuals interested in attending to respond by email to the questions below. We are specifically encouraging applications from: 
+* Members of under-represented groups, specifically women and members of minorities. 
+* Those with skills and interests in documentation or visualization, as both are currently underrepresented among the initial set of attendees 
+* Biologists familiar with comparative phylogenetic methods who are interested in working face-to-face with developers to help prioritize needs, document and test the code being developed, provide feedback regarding usability, and ensure the community value of the code being written at the event. 
+* Graduate students and postdocs.
+
+Please read the detailed description on the website (http://hackathon.nescent.org/R Hackathon 1) prior to applying. Email your responses and, if possible, a CV to hackathon2@nescent.org by October 14.
+1. Please indicate if you would be available for all or only for part of the Dec 10-14 time period.
+2. All code produced at the event is to be made available immediately under an OSI-approved open-source license (specifically, the GPL for any code in R). Please indicate whether this would pose any difficulty for your participation.
+3. Briefly describe your qualifications (e.g. your familiarity with comparative phylogenetic methods and/or R programming).
+4. Please state what you would most like to accomplish at the hackathon. If you would not be writing software at the event, please state how you would like to contribute and how you would expect to benefit.
+5. Please indicate if you are a member of an underrepresented group (including women, persons with disabilities, and any of the following minorities: African American, Hispanic, American Indian, Alaska Native, Native Hawaiian, and Pacific Islander).
+Please be aware that the funds, as well as the space, for this event are limited, and the organizers need to balance the skills of the attendees, so not all qualified applicants can be guaranteed acceptance.
+
+The Organizing Committee 
+From NESCent: Hilmar Lapp, Brian O’Meara, Samantha Price, Todd Vision, Amy Zanne 
+From UC Berkeley: Steven Kembel
+
+Samantha Price, Ph.D. Postdoctoral Fellow National Evolutionary Synthesis Center (NESCent) 2024 W. Main Street Suite A200 Erwin Mills Building Durham, NC 27705 USA
+sprice@nescent.org

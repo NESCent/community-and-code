@@ -1,0 +1,84 @@
+From karen.cranston at gmail.com  Tue Oct 30 14:35:37 2012
+From: karen.cranston at gmail.com (Karen Cranston)
+Date: Tue, 30 Oct 2012 14:35:37 -0400
+Subject: [Wg-phyloinformatics] Phylo-hackathon, Tucson, AZ, January 2013
+Message-ID: <CAL1BuGV5jcL8wJNJU_qNfza+tWRRGhf0FmNXhZvMPZ9YfVGuMw@mail.gmail.com>
+
+Phylogenies! Hacking! Tucson in January! Apply at
+http://tinyurl.com/PhyloTastic2
+
+An implicit promise of the Tree of Life project is that, ultimately,
+expert knowledge of species phylogeny will be accessible and usable by
+everybody. In other words, we will all be able to get the species
+trees we need, in a useable form, when we need them. The Phylotastic
+project aims to make that vision a reality, by developing a loosely
+coupled system of components that, in response to a user?s query (a
+list of taxa plus conditions), will rectify names, find suitable
+source trees, prune and graft to get the right species, estimate
+branch lengths, and return the results with metadata on sources and
+methods.
+
+In June 2012, the HIP (Hackathons, Interoperability, Phylogenies)
+working group of NESCent staged a hackathon
+(http://en.wikipedia.org/wiki/Hackathon) to prototype components of a
+Phylotastic system, and implement demos to show their potential.
+Thanks to 25 participants who responded to an open call (just like
+this one), that hackathon was an extraordinary success (see
+http://phylotastic.org/).
+
+Now we are gearing up for a second hackathon, to take another step
+toward providing computable, convenient, credible access to the Tree
+of Life. We aim to recruit a diverse group of participants, including
+students, faculty, postdocs, and staff of both genders and from
+different backgrounds. Only some of the seats at the hackathon will be
+filled by expert hackers who spend their time coding. We also need
+folks who can:
+
+* Provide knowledge of workflows and downstream uses of trees
+* Design user interfaces
+* Test software
+* Make screencasts, develop tutorials, and document user experiences
+
+Applications are now being accepted to Phylotastic 2, which will take
+place January 28th, 2013 to February 1st, 2013 at the BIO5 facility in
+warm and sunny Tucson, AZ (http://bio5.arizona.edu/about-bio5).
+Information on how to apply is provided below. Partial support (and,
+if funds allow, full support) for travel, food and lodging will be
+available to each successful applicant who indicates need. We
+particularly welcome applications from women and members of
+underrepresented groups.
+
+To understand how you might be able to contribute, review the
+slideshow (ppt format, http://bit.ly/RWRgIc, or PDF format,
+http://bit.ly/POaoci), consult the web site (phylotastic.org) or
+contact a member of the HIP leadership team (listed below).
+
+Sincerely,
+Karen Cranston
+- on behalf of the  HIP (Hackathons, Interoperability and Phylogenies)
+Leadership Team*
+
+HOW TO APPLY
+Before 16 November, 2012 at midnight, EST, fill out the online form:
+
+http://tinyurl.com/PhyloTastic2
+
+* The application form asks you to describe how you can contribute to
+Phylotastic. Remember that we are not just looking for expert coders.
+There are many other ways to contribute.
+* Support for travel, housing and meals will be available to each
+successful applicant who indicates need.
+* Please understand that your application is not a guarantee of
+participation in the event.  Funds and space are limited: we may not
+be able to sponsor every individual who is qualified to participate.
+
+* LEADERSHIP TEAM
+Karen Cranston, karen.cranston at nescent.org
+Brian Sidlauskas, brian.sidlauskas at oregonstate.edu
+Arlin Stoltzfus, arlin at umd.edu
+Mike Rosenberg mrosenb at asu.edu
+Brian O?Meara, bomeara at utk.edu
+Mark Westneat mwestneat at fieldmuseum.org
+Enrico Pontelli epontell at cs.nmsu.edu
+Rutger Vos rutgeraldo at gmail.com
+Naim Matasci nmatasci at iplantcollaborative.org

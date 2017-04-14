@@ -1,0 +1,132 @@
+From hlapp at nescent.org  Mon Jan 26 18:11:15 2009
+From: hlapp at nescent.org (Hilmar Lapp)
+Date: Mon, 26 Jan 2009 18:11:15 -0500
+Subject: [Wg-phyloinformatics] Evolutionary Database Interoperability
+	Hackathon
+Message-ID: <D19BEB86-B7AC-4914-91A4-2F293C376190@nescent.org>
+
+(Some of you are aware of this already, but I figure some may not be.  
+Feel free to forward as well, it will hopefully come out tonight on  
+evoldir too.)
+
+    NESCent Hackathon on Evolutionary Database Interoperability
+
+                    OPEN CALL FOR PARTICIPATION
+
+
+The National Evolutionary Synthesis Center (NESCent; http:// 
+nescent.org) is sponsoring an "Evolutionary Database Interoperability"  
+hackathon aimed at enhancing the value (and raising the profile) of  
+important community resources for evolutionary and biodiversity data  
+by increasing their accessibility to users and software. We are  
+broadly soliciting applications for participation from the community.  
+More information about the event is available online at http://evoinfo.nescent.org/Database_Interop_Hackathon 
+.
+
+A hackathon is an event at which a group of programmers who otherwise  
+do not have the opportunity to interact on a routine basis meet with  
+users and domain experts to collaboratively develop working code that  
+is of utility to the community as a whole. The Database  
+Interoperability Hackathon will bring together developers from a  
+number of emerging standards for evolutionary data exchange (NeXML; http://nexml.org 
+), data and metadata semantics (CDAO; http://www.evolutionaryontology.org 
+), and programmatic access of evolutionary data providers (PhyloWS; http://evoinfo.nescent.org/PhyloWS) 
+  with database programmers and metadata experts from a variety of  
+evolutionary and biodiversity community resources. In addition, the  
+mix of people will include programmers of embeddable widgets, mash-up  
+and aggregation applications that can showcase the value of the effort  
+for research applications.
+
+We also welcome comments and suggestions for issues in database  
+interoperability that could be addressed at the event but are not yet  
+on our radar. Please email the organizers at hackathon3 at nescent.org  
+with any suggestions you have.
+
+GOALS AND ACTIVITIES
+
+The focus of the programming aspect of the meeting will be to promote  
+interoperability among online evolutionary databases through the  
+following core set of activities.
+1) Mapping the data and operation semantics of the participating  
+online resources to an ontology, CDAO.
+2) Implement a NeXML transformation for participating online resources  
+as a formally defined query input and data output.
+3) Implementation of programmable web-service interfaces following the  
+emerging PhyloWS standard.
+4) Showcase some of the possibilities that can arise from achieving  
+data provider interoperability through small integration and/or mash- 
+up oriented prototype applications.
+
+Supporting activities will include discussing input from end-users,  
+discussing compliance with emerging reporting standards (MIAPA) and  
+documentation of solutions and open problems on the hackathon wiki.
+
+
+ORGANIZATION
+
+The event will be 5 days in duration and will take place at NESCent in  
+Durham, North Carolina, on March 9-13, 2009. Participant travel,  
+accommodation, expenses for meals, etc, will be paid by NESCent.  
+Logistical and travel details will be communicated to accepted and  
+confirmed participants.
+
+The specific development targets will be selected by the participants  
+through a hackathon wiki, a mailing list, and one or more conference  
+calls. The exact agenda for the event will be developed similarly, but  
+will be largely devoted to coding time. At the event itself,  
+participants will self-organize into small subgroups (of 2-5) focused  
+on particular targets.
+
+The NeXML, CDAO, and PhyloWS standards are products of the  
+Evolutionary Informatics working group (http://evoinfo.nescent.org),  
+under the auspices of whom this event is being organized.
+
+
+CALL FOR PARTICIPATION
+
+We invite all individuals interested in attending to apply by  
+responding to the questions below. We specifically encourage  
+applications from members of underrepresented groups, specifically  
+women and minorities, and from graduate students and postdocs.
+
+1. Please indicate if you would be available for all or only for part  
+of the March 9-13 time period.
+
+2. All code and documentation produced at the event is to be made  
+available immediately under an OSI-approved open-source license or a  
+Creative Commons license. Please indicate if this would pose any  
+difficulty for your participation.
+
+3. Please briefly describe your qualifications (programming languages,  
+metadata standards, experience with data schemas, web-service  
+programming, mash-up programming, etc).
+
+4. Please state what you would most like to accomplish at the  
+hackathon, given your current understanding.  If you would not be  
+writing software at the event, please state how you would like to  
+contribute and how you would expect to benefit.
+
+5. Please indicate if you are a member of an underrepresented group  
+(including women, persons with disabilities, and any of the following  
+minorities: African American, Hispanic, American Indian, Alaska  
+Native, Native Hawaiian, and Pacific Islander).
+
+To apply, please enter your personal information and your responses by  
+February 5 into the online form at
+http://spreadsheets.google.com/viewform?key=p6ikV0To6fXpJ369ozyNSSw&hl=en
+
+In addition, if possible please email a CV to the organizers at hackathon3 at nescent.org 
+  by the same deadline.  If you are interested in participating but  
+are unable to respond in full by that deadline, please let us know as  
+soon as possible. Please understand that the funds as well as the  
+space for this event are limited. We also need to balance a critical  
+mass of developers in certain areas of expertise with a broad  
+participation of different data providers, and so not all qualified  
+applicants can be guaranteed acceptance.
+
+Yours,
+
+The Organizing Committee
+Arlin Stoltzfus, Rutger Vos (Evolutionary Informatics Working Group)
+Hilmar Lapp, Todd Vision (NESCent)
+Katja Schulz (Tree of Life)

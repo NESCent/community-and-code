@@ -1,0 +1,9 @@
+field	type	description
+event_product_id	integer	unique ID of product
+event_id	integer	ID of event that generated product
+product_name	string	name of this product
+product_type	string	"type of product ::= one_of{repository, report, publication, poster, grant_proposal, wiki, email_list, screencast, blog, documentation, tutorial, specification}"
+location	URL	location of product where possible
+description	string	description of product
+is_followup	logical	TRUE if product was produced by a post-hack followup effort
+comment	string	free-form comment

@@ -1,0 +1,35 @@
+(evoldir archives from October, 2009)
+
+NESCent Phyloinformatics Nov 9-13
+
+NESCent Phyloinformatics VoCamp
+
+OPEN CALL FOR PARTICIPATION
+Integrating diverse biological data with the historical process of evolution is a grand challenge for 21st century biology. The interoperability of data from diverse fields (e.g., genetics, ecology, biodiversity, biomedicine) requires a technology infrastructure based on formalized, shared vocabularies. Developing such vocabularies is a community project. In order to build controlled vocabularies and ontologies, the National Evolutionary Synthesis Center (NESCent: http://nescent.org) is sponsoring a “Phyloinformatics VoCamp”.
+
+We invite scientists from diverse sub-disciplines to apply for this event, as explained below. The application deadline is September 18, 2009. More information about motivation, plans, and preliminary ideas is available online at http://bit.ly/VoCamp Proposal. Feel free to disseminate this notice to colleagues who may be interested.*
+
+A VoCamp (http://vocamp.org) is an intense, hands-on, working meeting with face-to-face interactions between a diverse group of people focused on vocabulary and ontology design, development and application. The Phyloinformatics VoCamp will include ontology and vocabulary developers from relevant efforts, experts on knowledge representation and reasoning, and users and developers of integrative applications that use these ontologies.
+
+This event will partially overlap with the Biodiversity Information Standards (TDWG: http://tdwg.org) Annual Conference in Montpellier, France, November 9-13, 2009. The VoCamp is an activity of the TDWG Interest Group on Phylogenetics Standards (http://wiki.tdwg.org/Phylogenetics) and is partly supported by TDWG and the Universit ́e Montpellier.
+
+GOALS AND ACTIVITIES
+The objective of the event is to connect previously disparate ontology development efforts, stakeholder communities, and interoperability initiatives with shared objectives. Aside from sharing knowledge, expertise, and best practices, our goal is to build-out existing ontology resources in a hands-on manner in terms of ontological rigor, semantic richness, and modularity that supports effective reuse.
+
+We also plan to have programming expertise and activities present at the event, such as for necessary large-scale transformations, and especially for proof-of-concept applications that directly apply the ontologies being developed.
+
+On a long-term basis, we anticipate that the event, if successful, will give rise to similarly structured follow-up events organized by the participating stakeholder communities, such as TDWG, SONet (http://sonet.ecoinformatics.org), and OBO (http://www.obofoundry.org).
+
+ORGANIZATION
+The VoCamp will be 4 days in duration during November 7-11, 2009 and is co-located with the TDWG annual conference (http://www.tdwg.org/conference2009) in Montpellier, France. The first two days (Nov 7-8) will be dedicated entirely to VoCamp and the remainder of the event (Nov 10-11) will overlap with TDWG ’workshops days’. Participants will have the opportunity, and are encouraged, to interact with TDWG participants and attend conference sessions outside of the VoCamp.
+
+The specific vocabulary development targets will be selected by the participants partly in advance through a dedicated area on a wiki, a mailing list, and one or more conference calls, and partly on-site through an Open Space activity. The exact agenda for the event will be developed similarly, but will be largely devoted to ontology and vocabulary development time. At the event itself, participants will self-organize into small subgroups focused on particular targets. The VoCamp will conclude with a wrap-up session, and a report presented to the TDWG conference audience.
+
+We also anticipate that several “boot camps” will be needed to ensure a productive event for all participants, for example on ontology design and engineering, reasoning, and infrastructure for collaborative development of ontologies.
+
+We welcome comments and suggestions for issues in ontology development that are not explicitly addressed here or in our proposal but that could be addressed at the event. Please email the organizers at vocamp1@nescent.org with any suggestions.
+
+HOW TO APPLY
+The application consists of your cv and your responses to 6 questions about your experience, skills, objectives, support, and commitment to open software development. To apply, please fill out the online form at http://bit.ly/VoCamp Form by September 18, and submit your CV to the organizers at vocamp1@nescent.org. NESCent will provide funds in support of expenses, including travel, accommodation, registration,
+/
+This message has been arbitrarily truncated at 5000 characters. To read the entire message look it up at http://life.biology.mcmaster.ca/ ̃brian/evoldir.html

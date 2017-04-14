@@ -1,0 +1,37 @@
+(the following application procedure was described in 
+the call for participation for the Comparative methods 
+in R hackathon)
+
+Please read the detailed description on the website 
+(http://hackathon.nescent.org/R Hackathon 1) prior to 
+applying. Email your responses and, if possible, a CV 
+to hackathon2@nescent.org by October 14.
+
+1. Please indicate if you would be available for all 
+   or only for part of the Dec 10-14 time period.
+
+2. All code produced at the event is to be made available 
+   immediately under an OSI-approved open-source license 
+   (specifically, the GPL for any code in R). Please 
+   indicate whether this would pose any difficulty for 
+   your participation.
+
+3. Briefly describe your qualifications (e.g. your 
+   familiarity with comparative phylogenetic methods 
+   and/or R programming).
+
+4. Please state what you would most like to accomplish at 
+  the hackathon. If you would not be writing software at 
+  the event, please state how you would like to contribute 
+  and how you would expect to benefit.
+
+5. Please indicate if you are a member of an under-
+   represented group (including women, persons with 
+   disabilities, and any of the following minorities: 
+   African American, Hispanic, American Indian, Alaska 
+   Native, Native Hawaiian, and Pacific Islander).
+
+Please be aware that the funds, as well as the space, for 
+this event are limited, and the organizers need to balance 
+the skills of the attendees, so not all qualified 
+applicants can be guaranteed acceptance.

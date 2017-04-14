@@ -1,0 +1,5 @@
+field	type	description
+project_id	integer	unique ID for this project
+event_id	integer	ID of event that hosted this project team
+full_name	string	name of this project
+narrative_description	string	free-form description

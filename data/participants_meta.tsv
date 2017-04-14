@@ -1,0 +1,9 @@
+field	type	description
+person_id	integer	unique ID for this person
+First Name	string	first name
+Last Name	string	surname
+liame	string	reverse(email address)
+Institution	string	institutional affiliation
+github_handle	string	"github handle (NA = searching github reveals no match that can be confirmed via a second criterion such as project content, affiliation, or other information)"
+twitter_handle	string	"twitter handle (NA = searching Twitter reveals no match that can be confirmed via a second criterion such as project content, affiliation, or other information)"
+personal_url	URL	URL for personal page

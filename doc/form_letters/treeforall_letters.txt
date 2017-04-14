@@ -1,0 +1,165 @@
+﻿Letters to be send to applicants of the Tree-for-all hackathon. Feedback welcome. No fancy 
+formatting - these will go out plain text in the emails. 
+
+Acceptance letter - full support
+Acceptance letter - partial support
+Acceptance letter - remote
+Rejection letter
+
+------------------------------------------------------------------------------------------
+Acceptance letter - full support
+
+Dear <applicant>,
+
+Thank you for your application to the Tree-for-all hackathon, jointly sponsored by Open 
+Tree of Life [1], Arbor Workflows [2] and the NESCent HIP (Hackathons, Interoperability, 
+Phylogenies) working group [3]. On behalf of the organizing team, I am  happy to inform 
+you that your application has been accepted.  
+
+=Deadline for confirmation=
+To reserve your seat at the hackathon, please respond to this email with confirmation of 
+your attendance by Friday, July 25, 2014. We note that there will be several remote 
+participants, so if you would prefer to participate remotely, let us know.
+
+=Event details=
+The hackathon will start at 9 am on Monday, September 15 and end at 3 pm on Friday, 
+September 19, all times EDT (GMT-4). 
+
+We will cover the costs of your flight, hotel,  all meals and shuttles to and from the 
+Detroit Airport (DTW). We will not cover transportation to and from your home airport, or 
+parking at your home airport. Once we receive your confirmation, we will send instructions 
+on how to arrange travel. Please do not book your own flights at this time!
+
+=Pre-hackathon planning=
+In the lead up to the event, we will continue to discuss potential projects on the 
+hackathon issue tracker [4]. We encourage everyone to participate - pitch a new idea, ask 
+a question or add a comment. The more we know about potential project ideas, the better we 
+can be prepared for how you want to use the OpenTree APIs.
+
+We will also create a mailing list for all confirmed participants for general information 
+and questions.
+
+Once again, thank you for applying to Tree-for-all. We are excited about the project ideas 
+that we have seen so far, and optimistic that this is going to be a fun and productive 
+week.  
+
+Cheers,
+
+Karen Cranston
+on behalf of Open Tree of Life and the Tree-for-all organizers
+
+[1] http://opentreeoflife.org
+[2] http://arborworkflows.org
+[3] http://www.evoio.org/wiki/HIP
+[4] http://github.com/opentreeoflife/hackathon/issues
+
+------------------------------------------------------------------------------------------
+Acceptance letter - partial support
+
+Dear <applicant>,
+
+Thank you for your application to the Tree-for-all hackathon, jointly sponsored by Open 
+Tree of Life [1], Arbor Workflows [2] and the NESCent HIP (Hackathons, Interoperability, 
+Phylogenies) working group [3]. On behalf of the organizing team, I am  happy to inform 
+you that your application has been accepted.  
+
+=Deadline for confirmation=
+To reserve your seat at the hackathon, please respond to this email with confirmation of 
+your attendance by Friday, July 25, 2014. We note that there will be several remote 
+participants, so if you would prefer to participate remotely, let us know.
+
+=Event details=
+The hackathon will start at 9 am on Monday, September 15 and end at 3 pm on Friday, 
+September 19, all times EDT (GMT-4). 
+
+Your application indicated that you are able to pay some of your own expenses. We greatly 
+appreciate this support. We will cover your hotel, shuttles back to the airport at the end 
+of the event and two catered lunches. Travel to and from Ann Arbor, other meals and 
+incidental travel expenses will be your responsibility. 
+
+=Pre-hackathon planning=
+In the lead up to the event, we will continue to discuss potential projects on the 
+hackathon issue tracker [4]. We encourage everyone to participate - pitch a new idea, ask 
+a question or add a comment. The more we know about potential project ideas, the better we 
+can be prepared for how you want to use the OpenTree APIs.
+
+We will also create a mailing list for all confirmed participants for general information 
+and questions.
+
+Once again, thank you for applying to Tree-for-all. We are excited about the project ideas 
+that we have seen so far, and optimistic that this is going to be a fun and productive 
+week.  
+
+Cheers,
+
+Karen Cranston
+on behalf of Open Tree of Life and the Tree-for-all organizers
+
+[1] http://opentreeoflife.org
+[2] http://arborworkflows.org
+[3] http://www.evoio.org/wiki/HIP
+[4] http://github.com/opentreeoflife/hackathon/issues
+
+------------------------------------------------------------------------------------------
+Acceptance letter - remote
+
+Dear <applicant>,
+
+Thank you for your application to the Tree-for-all hackathon, jointly sponsored by Open 
+Tree of Life [1], Arbor Workflows [2] and the NESCent HIP (Hackathons, Interoperability, 
+Phylogenies) working group [3]. There were many more qualified applicants than we had 
+physical space at University of Michigan. We would therefore like to invite you to attend 
+as a remote participant.   
+
+=Deadline for confirmation=
+Please confirm that you are willing to participate remotely by Friday, July 25, 2014. 
+Please also let us know if you would like to be considered for a physical space at the 
+event if one should become available.
+
+=Event details=
+The hackathon will start at 9 am on Monday, September 15 and end at end at 3 pm on Friday, 
+September 19, all times EDT (GMT-4). We will have an IRC channel going throughout the 
+event, as well as Google hangouts for group sessions. Individual projects will decide on a 
+form of communication during breakout sessions that best meets their needs.
+
+=Pre-hackathon planning=
+In the lead up to the event, we will continue to discuss potential projects on the 
+hackathon issue tracker [4]. We encourage everyone to participate - pitch a new idea, ask 
+a question or add a comment. The more we know about potential project ideas, the better we 
+can be prepared for how you want to use the OpenTree APIs.
+
+We will also create a mailing list for all confirmed participants for general information 
+and questions.
+
+Once again, thank you for applying to Tree-for-all. We are excited about the project ideas 
+that we have seen so far, and optimistic that this is going to be a fun and productive 
+week.  
+
+Cheers,
+
+Karen Cranston
+on behalf of Open Tree of Life and the Tree-for-all organizers
+
+[1] http://opentreeoflife.org
+[2] http://arborworkflows.org
+[3] http://www.evoio.org/wiki/HIP
+[4] http://github.com/opentreeoflife/hackathon/issues
+
+------------------------------------------------------------------------------------------
+Rejection letter
+
+Dear <applicant>,
+
+Thank you for your application to the Tree-for-all hackathon, jointly sponsored by Open 
+Tree of Life [1], Arbor Workflows [2] and the NESCent HIP (Hackathons, Interoperability, 
+Phylogenies) working group [3].  There were many more qualified applicants than we had 
+spaces, so we had to make some difficult decisions. I regret to inform you that we cannot 
+offer you a space at the event. 
+
+We hope this doesn’t lessen your enthusiasm for participating in future hackathons or 
+open-source development, whether with Open Tree of Life or other projects. 
+
+Sincerely,
+
+Karen Cranston
+on behalf of Open Tree of Life and the Tree-for-all organizers

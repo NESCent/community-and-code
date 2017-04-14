@@ -1,0 +1,7 @@
+field	type	description
+person_id	integer	ID for a person
+event_id	integer	ID for an event
+First Name	string	first name
+Last Name	string	surname
+Role	string	role during event ::= one_of{participant, leader}
+Location	string	location during event ::= one_of{remote, onsite}

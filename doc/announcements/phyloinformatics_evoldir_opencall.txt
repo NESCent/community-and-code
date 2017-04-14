@@ -1,0 +1,26 @@
+(from November, 2006, Evoldir monthly digest)
+
+NESCent phyloinformatics hackathon
+
+The National Evolutionary Synthesis Center (www.nescent.org) invites community input on an upcoming Phyloinformatics Hackathon to leverage Bio* open-source toolkits (e.g., BioPerl) to provide the “glue” for evolutionary analyses of various types that depend on automation, interoperability and data integration.
+
+BACKGROUND: While powerful computational tools exist for comparison of evolutionary models, inferring trees, etc, these tools are largely isolated from the rest of bioinformatics (in terms of the input, output and control), making it difficult to achieve objectives of interoperability of diverse applications, large-scale automation of computational analyses, and integration of data from diverse sources. The Bio* toolkits (BioPerl, BioJava, BioPython, BioRuby, etc.) are widely used as the “glue” code to achieve such objectives in a genomics context.
+
+OBJECTIVES: The general plan for the first NESCent phyloinformatics hackathon is to leverage the Bio* toolkits to facilitate evolutionary analysis, as described on the hackathon web site (see “Proposal”) here:
+
+ https://www.nescent.org/wg phyloinformatics/ 
+
+The specific objectives are driven by “use cases”, that is, specific target problems of interest to evolutionary biologists. A diversity of use cases is being considered (click on the “Use Cases” link in the navigation bar).
+
+CALL FOR INPUT: The organizers invite community input in order to focus efforts on the most urgent or pervasive problems. Community input may take several forms:
+* modifications (clarifications, additions) to the current list of use cases
+* actual data files (e.g., alignments, trees, other data) for use in testing
+* citations to published papers that exemplify use cases
+* your “wish list” for a phyloinformatics computing platform (see “Forum”)
+The NESCent web site (the link is given above) is a “wiki” web, that is, it implements the “wiki” technology (used in wikipedia) to facilitate community-based authoring of web documents. Using your favorite web browser, you can simply start editing the “Use Case” document (the first time, you will be prompted to register), upload data files, or add comments to the “Forum” page. If you are not comfortable with this technology, you may email comments (and files) to hlapp@nescent.org (please indicate if you don’t wish to share your comments or data files on the wiki). You may also contact any of the organizers with questions or comments.
+
+ATTENDANCE: The hackathon is scheduled for Dec 11-15, 2006 in Durham NC. Space is limited, and attendance is by invitation. If you have not been contacted but desire to attend, please contact Hilmar Lapp (hlapp@nescent.org).
+
+ORGANIZERS: Hilmar Lapp (NESCent; hlapp@nescent.org) Aaron Mackey (GSK; aaron.j.mackey@gsk.com) Mark Holder (FSU; older@scs.fsu.edu) Arlin Stoltzfus (CARB, NIST; arlin.stoltzfus@nist.gov) Todd Vision (NESCent; tjv@bio.unc.edu) Rutger Vos (UBC; rvosa@sfu.ca)
+
+stoltzfu@umbi.umd.edu

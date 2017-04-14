@@ -1,0 +1,86 @@
+From hlapp at nescent.org  Mon Feb 20 23:18:03 2012
+From: hlapp at nescent.org (Hilmar Lapp)
+Date: Mon, 20 Feb 2012 23:18:03 -0500
+Subject: [Wg-phyloinformatics] Call for applications: Phylotastic! hackathon
+	at NESCent (June 4 to 8, 2012)
+Message-ID: <671EE794-7A48-4B47-B704-181D439A583E@nescent.org>
+
+Every year, the number and size of available species phylogenies grows, with the largest trees now exceeding 10^5 tips.   The information contained in these megatrees is tremendous, but there is no easy way to access and use it.   
+
+To address this issue, a NESCent working group, named HIP (Hackathons, Interoperability, Phylogenies), has planned a hackathon (http://en.wikipedia.org/wiki/Hackathon) in which scientist-programmers will design and implement Phylotastic!, an open software system to extract a  phylogeny for a named set of species from available megatrees, and optionally create mash-ups with data from online services.   Phylotastic is envisioned as a set of web services  that collectively provides the operations - pruning, grafting, name-reconciliation, branch estimation, translation - that will democratize using the Tree of Life, making it accessible and computable for researchers throughout the life sciences, from community ecology to comparative genomics
+
+Applications are now being accepted to participate in the Phylotastic hackathon, which will take place June 4 to 8 at NESCent headquarters in Durham, NC (see below, How to Apply).   Support for travel and meal expenses will be available to each successful applicant, according to his or her stated needs.  
+
+We urge you to apply if you are enthusiastic about the goals of the project, and you have one or more of the following skills:
+   o development, adaptation and use of software for megatree informatics,
+   o grafting & pruning trees,
+   o branch length estimation,
+   o NeXML support,
+   o provenance annotation,
+   o mashups (semantic integration),
+   o taxonomic name resolution,
+   o phylogenetic visualization,
+   o construction of and programming with web service interfaces, and
+   o assembling web-services into executable workflows . 
+
+We also welcome your application if you can envision a role for yourself based on other attributes not listed, including non-programming skills (e.g.,  generating documentation) and expert knowledge of use-cases (i.e., real-world problems).  
+
+To understand how you might be able to contribute, please review a brief slide presentation (ppt format, http://bit.ly/xGvwRr, or PDF format, http://bit.ly/wcQzMI).  If further information is needed, consult the Phylotastic project wiki (http://www.evoio.org/wiki/Phylotastic), or contact a member of the HIP leadership team (listed below).   
+
+Sincerely,
+
+Hilmar Lapp(*)
+hlapp at nescent.org
+
+* on behalf of the  HIP (Hackathons, Interoperability and Phylogenies) Leaderhip Team
+
+1. HOW TO APPLY
+You may apply by filling in the online form here: http://tinyurl.com/PhyloTasticForm
+
+Please note the following:  
+       o The application deadline is March 4 at midnight, EST
+       o Be sure that you understand the project before applying.  If needed, review a brief slide presentation (ppt format, http://bit.ly/xGvwRr, or PDF format, http://bit.ly/wcQzMI). 
+       o The application form asks you to describe your qualifications.  If possible, cite tangible accomplishments to provide evidence of your skills.
+       o All code produced at the event is to be made available immediately under an OSI-approved open-source license, and documentation under a Creative Commons BY license (http://creativecommons.org/licenses/by/3.0/).  Using the online application, indicate whether this would pose any difficulty for your participation.
+
+Support for travel and meal expenses will be available to each successful applicant, according to his or her stated needs.  Please understand that your application is not a guarantee of participation in the event.  Funds and space are limited: we may not be able to sponsor every individual who is qualified to participate.  
+
+2. SCOPING STATEMENTS
+
+To further clarify the project, consider the following points.
+
+In scope:
+   o Populating data store of existing trees
+   o Evolution of PhyloWS to support the needs of PhyloTastic
+   o Taxonomic name resolution (embedding existing TNRS capacities)
+   o Pruning trees and grafting species on them
+   o Branch length (existing methods for incorporating branch lengths)
+   o Integration of data and trees (e.g., mashups) - species-wise integration
+   o Display of resulting trees (using existing technologies)
+   o Wrap all these existing tools as web services
+   o NeXML syntax extensions if needed
+   o If needed, determine methods for compressing NeXML representations
+   o user interfaces that are simple (web form) or that adapt existing tools
+
+Not In Scope:
+   o Constructing new input trees
+   o New Data Generation
+   o Arguing or evaluating the correctness of trees
+   o Design of new TNRS systems
+   o Debates about which naming system is best
+   o Developing new techniques to derive branch lengths
+
+Uncertain:
+   o Phylo-referencing
+   o Satisfying  any particular standard of provenance annotation
+
+3. HIP (Hackathons, Interoperability, Phylogenetics)
+
+The Phylotastic Hackathon represents the first of three sponsored by a new working group at NESCent called HIP (Hackathons, Interoperability, Phylogenetics).   HIP is organized by a Leadership Team consisting of  Karen Cranston, Sergei Kosakovsky Pond, Hilmar Lapp, Enrico Pontelli (PI), Michael Rosenberg, Brian Sidlauskas, Arlin Stoltzfus (PI), Rutger Vos (PI), Mark Westneat, and Mark Wilkinson. 
+
+More information about HIP, including goals, strategies, and project ideas, can be found here:   http://www.evoio.org/wiki/HIP
+
+-- 
+===========================================================
+: Hilmar Lapp  -:- Durham, NC -:- informatics.nescent.org :
+===========================================================

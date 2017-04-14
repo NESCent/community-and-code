@@ -1,0 +1,10 @@
+event_id	code_name	full_name	URL	start_date	days	location	sponsors
+1	phylohack	NESCent Phyloinformatics Hackathon: Lowering the Barrier	http://informatics.nescent.org/wiki/Phylohackathon_1	12/11/06	5	"Durham, NC"	NESCent
+2	comparativer	NESCent Hackathon on Comparative Methods in R	http://informatics.nescent.org/wiki/R_Hackathon_1	12/10/07	5	"Durham, NC"	NESCent
+3	dbinterop	Evolutionary Database Interoperability Hackathon	https://www.nescent.org/wg/evoinfo/index.php?title=Database_Interop_Hackathon	3/9/09	5	"Durham, NC"	"NESCent, TDWG"
+4	vocamp	Phyloinformatics VoCamp	http://www.evoio.org/wiki/VoCamp1	11/7/09	5	"Montpellier, France"	NESCent
+5	gmodtools	GMOD Tools for Evolutionary Biology	http://gmod.org/wiki/GMOD_Evo_Hackathon	11/8/10	5	"Durham, NC"	NESCent
+6	phylotastic1	"Phylotastic: the Tree of Life, as you need it"	http://www.evoio.org/wiki/Phylotastic	6/4/12	5	"Durham, NC"	"NESCent, iPlant, BioSynC"
+7	phylotastic2	Phylotastic 2	http://www.evoio.org/wiki/Phylotastic	1/28/13	5	"Tucson, AZ"	"NESCent, iPlant, BioSynC"
+8	treeforall	Tree-for-all Hackathon	https://github.com/OpenTreeOfLife/hackathon	9/15/14	5	"Ann Arbor, MI"	"OpenTree, NESCent, Arbor"
+9	rpopgen	Population Genetics in R Hackathon	https://github.com/NESCent/r-popgen-hackathon	3/16/15	5	"Durham, NC"	NESCent

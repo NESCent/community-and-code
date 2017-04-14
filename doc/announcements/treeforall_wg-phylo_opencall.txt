@@ -1,0 +1,26 @@
+From arlin at umd.edu  Mon Jun  9 10:21:43 2014
+From: arlin at umd.edu (Arlin Stoltzfus)
+Date: Mon, 9 Jun 2014 10:21:43 -0400
+Subject: [Wg-phyloinformatics] =?windows-1252?q?Tree-for-All=3A_A_hackatho?=
+ =?windows-1252?q?n_to_access_OpenTree=92s_global_phylogeny_resources?=
+Message-ID: <07214E4B-85C3-4B30-9694-728E47FB359B@umd.edu>
+
+A global ?tree of life? will transform biological research in a broad range of disciplines from ecology to bioengineering. To help facilitate that transformation, the OpenTree project [1] now provides online access to >4000 published phylogenies, and a newly generated tree covering more than 2.5 million species. 
+
+The next step is to build tools to enable the community to use these resources.  To meet this aim, OpenTree, Arbor [2] and NESCent?s HIP working groups [3] are staging a week-long hackathon September 15 to 19 at U. Michigan, Ann Arbor.  Participants in this ?Tree-for-all? will work in small teams to develop tools that use OpenTree?s web services to extract, annotate, or add data in ways useful to the community.  Teams also may focus on testing, expanding and documenting the web services.
+
+How could a global phylogeny be useful in your research or teaching?  What other data from OpenTree would be valuable?  How could OpenTree web services be integrated into familiar workflows and analysis tools?   How could we add to the database of published trees, or enrich it with annotations?  
+
+If you can imagine using these resources, and you have the skills to work collaboratively to turn those ideas into products (as a coder, or working side-by-side with coders), we invite you to apply for the hackathon.  The full call for participation (http://bit.ly/1ioPPMc) provides instructions for how to apply, and how to share your ideas with potential teammates (strongly encouraged prior to applying).  Applications are due July 8th. Travel support is provided.  Women and underrepresented minorities are especially encouraged to apply.
+
+If you have questions, contact Karen Cranston (karen.cranston at nescent.org, @kcranstn, OpenTree), Arlin Stoltzfus (arlin at umd.edu, HIP), Julie Allen (juliema at illinois.edu, HIP), or Luke Harmon (lukeh at uidaho.edu, Arbor).  
+
+
+[1] http://www.opentreeoflife.org
+[2] http://www.arborworkflows.com/
+[3] http://www.evoio.org/wiki/HIP (Hackathons, Interoperability, Phylogenies)
+------------
+Arlin Stoltzfus (arlin at umd.edu)
+Research Biologist, NIST; Fellow, IBBR; Adj. Assoc. Prof., UMCP
+IBBR, 9600 Gudelsky Drive, Rockville, MD, 20850
+tel: 240 314 6208; web: www.molevol.org

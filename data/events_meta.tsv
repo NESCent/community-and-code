@@ -1,0 +1,9 @@
+field	type	description
+event_id	integer	unique ID for the event
+code_name	string	single word code name for the event
+full_name	string	full, descriptive title of the event
+URL	URL	web page location for the event
+start_date	date	starting date of the event
+days	integer	duration in days
+location	string	city, state
+sponsors	string	names of sponsoring organizations
