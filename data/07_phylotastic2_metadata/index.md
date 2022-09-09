@@ -9,7 +9,7 @@ layout: index
 
 **Shortname**: phylotastic2
 
-**URL**: [http://www.evoio.org/wiki/Phylotastic2]()
+**URL**: <http://www.evoio.org/wiki/Phylotastic2>
 
 **Original proposal**: [NESCent HIP working group proposal](http://www.evoio.org/wiki/EvoIOWorkingGroupProposal)
 
